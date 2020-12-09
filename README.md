@@ -22,19 +22,19 @@ If you want to see how I set up my development workstation, take a look at my [d
 ## 📈 GitHub Stats
 
 <a href="https://github.com/develerik/develerik">
-  <img src="https://github-readme-stats.vercel.app/api?username=develerik&show_icons=true&line_height=27&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=develerik&show_icons=true&line_height=27&hide_border=true&hide_title=true&theme=onedark" />
 </a>
 <a href="https://github.com/develerik/develerik">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develerik&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develerik&hide_border=true&layout=compact&theme=onedark" />
 </a>
 
 ## 🌟 Featured Repositories
 
 <a href="https://github.com/develerik/dotfiles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=develerik&repo=dotfiles" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=develerik&repo=dotfiles&theme=onedark" />
 </a>
 
 
 <a href="https://github.com/develerik/git-credential-1password">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=develerik&repo=git-credential-1password" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=develerik&repo=git-credential-1password&theme=onedark" />
 </a>
