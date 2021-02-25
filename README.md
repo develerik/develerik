@@ -38,3 +38,11 @@ If you want to see how I set up my development workstation, take a look at my [d
 <a href="https://github.com/develerik/git-credential-1password">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=develerik&repo=git-credential-1password&theme=onedark" />
 </a>
+
+<a href="https://github.com/develerik/compose">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=develerik&repo=compose&theme=onedark" />
+</a>
+
+<a href="https://github.com/develerik/har-viewer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=develerik&repo=har-viewer&theme=onedark" />
+</a>
